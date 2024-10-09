@@ -1,0 +1,115 @@
+<html>
+<head>
+<title>Resume - sakshi </title>
+</head>
+<style>
+img {
+   float:right;
+  border-radius: 50%
+}
+P
+{
+border:5px solid black
+}
+</style>
+<p>
+<body>
+  
+  <center><h1><u> RESUME </u></h1></center>
+
+  <img src="photo" alt="girl" height="150px" width="150px"><br><br>
+<h3>landge sakshi changdev</h3>
+<h4>Emailid:landgesakshi008@gmail.com</h4>
+<h4>Contact no:7758849995</h4>
+<hr color="black">
+
+<h3>
+<div style="background-color:black;color:white;padding:05px">
+<u> CARRER OBJECTIVE </u></h3>
+
+<h4> I am seeking a competitive and challenging environment where I can serve your organization and establish a career for myself. </h4>
+
+<h3><div style="background-color:black;color:white;padding:05px"><u> ACADMIC QUALIFICATION </u></h3>
+<table border = 4 width= 1000 >
+<tr>
+     <th> Qulaification </th>
+     <th> Board/University </th>
+     <th> School/Collage </th>
+     <th> Marks </th>
+</tr>
+<tr>
+     <th> BSC Data science</th>
+     <th> Pune </th>
+     <th> New Art's Commerce and Science Ahmednagar College </th>
+     <th> 72% </th>
+</tr>
+<tr>
+    <th> HSC </th>
+    <th> State Board </th>
+    <th> Navbharat junior  College </th>
+    <th> 87% </th>
+
+</tr>
+<tr>
+    <th> SSC </th>
+    <th> State Board </th>
+    <th> Navbharat vidyalaya dehare </th>
+    <th> 89.80% </th>
+
+</tr>
+</table>
+
+<h3><div style="background-color:black;color:white;padding:05px"><u> STRENGHT </u></h3>
+<ul type ="square">
+<b>
+<h3>
+ <li> Good Communication skills </li>
+ <li> critical thinking </li>
+ <li> Self Motivation </li>
+</h3>
+</b>
+</ul>
+
+<h3><div style="background-color:black;color:white;padding:0.5px"><u> EXTRA CURRICULAR ACTIVITIES </u></h3>
+<ul>
+ <b>
+ <li> art </li>
+ <li> traveling  </li>
+ <li> cooking </li>
+ <li> Very active public speaker </li>
+ </b>
+  
+</ul>
+
+<h3><div style="background-color:black;color:white;padding:05px"><u> PERSONAL DETAILS </u></h3>
+<ul>
+<b>
+   <li>Name : landge sakshi changdev </li>
+   <li>Married : NO </li>
+   <li> Hobbies : </li>
+                   <ul>
+                   <li> Cooking different cuisines. </li>
+                   <li> music </li>
+                   <li> photography </li>
+                   </ul>
+   <li> Languages known: Marathi , English </li>
+   <li> Nationally : INDIAN </li>                
+</b>
+</ul>
+
+<hr color ="black">
+<table width=80%>
+<tr>
+<td>
+<h4><u> DATE </u> :</h4>
+<h4><u> PLACE </u> : Ahmednagar</h4>
+</td>
+<td align="right">
+<h4><u>   Name </u> : sakshi </h4>
+<h3><u> Signature  </u>:</h3>
+</td>
+</tr>
+</table>
+</body>
+</p>
+</html>
