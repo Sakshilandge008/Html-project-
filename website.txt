@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dropdown Menu Using Select Tab</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 18px; /* Increase the overall font size */
+        }
+
+        select {
+            width: 300px; /* Increase the width of the dropdown */
+            height: 40px; /* Increase the height of the dropdown */
+            font-size: 18px; /* Increase the font size inside the dropdown */
+        }
+
+        b {
+            font-size: 20px; /* Increase the size of the text above the dropdown */
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <b>Select your site using the dropdown list</b><br><br>
+        <select id="myList" onchange="if(this.value) window.location.href=this.value;">
+            <option value="">---Choose site---</option>
+            <option value="https://www.google.com">Google</option>
+            <option value="https://www.yahoo.com">Yahoo</option>
+            <option value="https://www.google.com/maps">Google Map</option>
+        </select>
+    </form>
+</body>
+</html>
